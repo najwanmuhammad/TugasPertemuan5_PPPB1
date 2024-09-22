@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TugasPertemuan5</string>
+    <string-array name="jenis_kelamin">
+        <item>Jenis Kelamin</item>
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+</resources>
